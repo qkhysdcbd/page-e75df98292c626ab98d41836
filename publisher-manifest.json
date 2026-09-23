@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "f834029f71785d2455edb69c",
+  "owner": "qkhysdcbd",
+  "repo": "page-e75df98292c626ab98d41836",
+  "title": "甜甜圈",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e75df98292c626ab98d41836",
+      "a": "甜甜圈",
+      "b": "稳定全球clash加速器",
+      "entity": "甜甜圈",
+      "brand": "甜甜圈",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "0d442be5111e3e61f76e4f454bd0367630bef7aeb565a1a688c5051c8aeb9513",
+      "content": {
+        "primary_entity": "甜甜圈",
+        "keyword1": "甜甜圈",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_DESCRIPTION": "，以清晰套餐与多端客户端配置为核心，帮助用户按设备数量、流量需求与订阅周期快速选择。基础版适合轻度日常使用，旗舰版面向流媒体与游戏加速场景，团队版提供更高设备并发与专属节点资源，各版本均可在常见 Clash 客户端中完成订阅导入与策略调整。",
+          "AI_HERO_SUBTITLE": "按需选择套餐，轻松配置订阅",
+          "AI_HERO_INTRO": "甜甜圈提供基础版、旗舰版与团队版三档订阅方案，覆盖个人到团队的不同设备规模与流量需求。通过 Clash 客户端导入订阅即可使用，节点线路与设备上限随套餐变化，年付方案在月付价格基础上进一步降低长期使用成本。",
+          "AI_VISUAL_TITLE": "甜甜圈多端订阅",
+          "AI_HIGHLIGHT_1": "三档套餐，按设备数区分",
+          "AI_HIGHLIGHT_2": "支持常见 Clash 客户端",
+          "AI_HIGHLIGHT_3": "年付方案价格更划算",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURES_INTRO": "从设备数量、流量额度与节点类型三个维度对比套餐。",
+          "AI_FEATURE_TITLE_1": "按设备数量选档",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版最多 20 台，按常用设备数匹配套餐可避免超限。",
+          "AI_FEATURE_TITLE_2": "按流量与线路需求选档",
+          "AI_FEATURE_TEXT_2": "基础版每月 100GB 与普通节点池，旗舰版 300GB 并含 IPLC 专线，团队版 1000GB 配 VIP 高带宽节点。",
+          "AI_FEATURE_TITLE_3": "按订阅周期控制成本",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，折合每月支出低于月付价。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "不同设备可选用对应的 Clash 客户端导入订阅，具体兼容情况以客户端文档为准。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，按设备数与流量需求对照选择。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "先确定套餐，再核对设备适配要求，最后按客户端文档完成订阅配置。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TEXT_1": "根据常用设备数量与每月流量需求，在基础版、旗舰版、团队版之间选定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统与所选 Clash 客户端是否匹配，核对套餐支持的设备数量与线路类型。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "在客户端中按文档导入订阅地址，选择节点策略并启用，即可开始使用对应线路。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对套餐，配置更省心",
+          "AI_CLOSING_TEXT": "对照设备数与流量需求选好套餐，按客户端文档导入订阅即可开始使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "甜甜圈基础版适合什么使用场景？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、支持 3 台设备同时在线，配有普通线路节点池，适合单人日常浏览与轻度流媒体使用。",
+          "AI_FAQ_QUESTION_2": "旗舰版的 IPLC 专线有什么作用？",
+          "AI_FAQ_ANSWER_2": "旗舰版提供 IPLC 专线游戏加速优化，同时支持 5 台设备与每月 300GB 流量，适合对流媒体解锁和游戏延迟有要求的用户。",
+          "AI_FAQ_QUESTION_3": "团队版是否支持更多设备同时在线？",
+          "AI_FAQ_ANSWER_3": "团队版支持 20 台设备同时在线，每月 1000GB 流量，另有 VIP 专属高带宽节点与定制路由，并配有专属客户经理服务。",
+          "AI_FAQ_QUESTION_4": "年付比月付能省多少？",
+          "AI_FAQ_ANSWER_4": "基础版月付 ¥15、年付 ¥150；旗舰版月付 ¥35、年付 ¥350；团队版月付 ¥85、年付 ¥850。年付相当于按十个月计价，长期使用更划算。",
+          "AI_FAQ_QUESTION_5": "如何把订阅导入到客户端？",
+          "AI_FAQ_ANSWER_5": "先按设备类型选择对应客户端，再参照客户端文档导入订阅链接，完成节点选择后即可连接使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--9kqy4so5dh1nxzi.com",
+    "host": "xn--9kqy4so5dh1nxzi.com"
+  },
+  "file_hashes": {
+    "index.html": "d46d4218d025418e4df9aab00ecd30f7ecf117cb1c69914acf1e7cf634349846",
+    "sitemap.xml": "46766454cae0068bd2d001b618dc6f81eaa43b82b62480965469aaf324161ca5",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d982b885f2a60aac86fae67e31398f35c185bad6a850897c7cd167137dc96a72",
+    "robots.txt": "ba3d8e3f82a47af643dbe7b19e9a17635c397be2080c8b745a1f7b0570c00779",
+    "9907d39550c2bdf11a381e4e806e472c.txt": "1c21f1983d6848168541ffd04f70a47ed69172316bc58c70d43e158f74e2b8e0"
+  },
+  "revision": "2478465438ebde6114362c24f1f959954fd02207acd5940c126dc8015beb1fda"
+}
